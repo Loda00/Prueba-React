@@ -1,0 +1,83 @@
+{
+  "quotesHomeTitle": "Quotes",
+  "quotesCreateTitle": "New quote",
+  "quotesUpdateTitle": "Update quote",
+  "quoteAttentionOf": "To the attention of",
+  "quoteSignBefore": "Sign before",
+
+  "quoteSoldAs": "Sold as",
+  "quoteUnitCost": "Unit cost",
+  "quoteOptional": "Optional",
+  "quoteActivity": "Activity",
+
+  "quoteNetTotalBeforeTaxes": "Net total before taxes",
+  "quoteTotalBeforeTaxes": "Total before taxes",
+  "quoteTotalWithTaxes": "Total with taxes",
+  "quoteTotalVAT": "VAT Total",
+  "quotePreTax": "Pre-tax unit price",
+  "quotePreTaxTotal": "Pre-tax total",
+  "quoteQty": "Qty",
+
+  "quotePostalMail": "Postal mail",
+  "quoteEmail": "Email",
+  "quotePhoneCall": "Phone call",
+  "quoteMeeting": "Meeting",
+  "quoteAgreement": "Agreement",
+  "quoteShortList": "Short list",
+  "quoteUndecided": "Undecided",
+  "quoteUnlikely": "Unlikely",
+  "formQuoteReason": "Quote reason",
+  "quotePaymentDay": "Payment Day",
+  "quoteDecisionFactors": "Decision factors",
+  "quoteModel": "Model",
+
+  "recipientCreateTitle": "Create recipient",
+  "recipientCreateSuccess": "Create recipient success",
+  "recipientCreate": "Create a recipient",
+
+  "quoteCreateSuccess": "Create quote success",
+  "quoteUpdateSuccess": "Update quote success",
+
+  "followUpHomeTitle": "Follow up",
+  "followUpCreateTitle": "Create follow up",
+  "followUpCreateSuccess": "Create follow up success",
+  "followUpUpdateSuccess": "Update follow up success",
+
+  "purchaseOrderHomeTitle": "Purchase orders",
+  "purchaseOrderDuplicate": "Duplicate Purcharse orders",
+  "purchaseOrdersCreateTitle": "Create purchase order",
+  "purchaseOrdersUpdateTitle": "Update purchase order",
+  "purchaseOrderNumber": "Purchase order",
+  "purchaseOrderStaff": "Staff",
+
+  "purchaseOrderUpdateSuccess" : "Update purchase order success",
+  "purchaseOrderCreateSuccess" : "Create purchase order success",
+
+  "formEstimatedDate": "Estimated starting date",
+  "formStaffAttribution": "Staff attribution",
+  "formPurchaseOrderReason": "Order reason",
+
+  "invoiceHomeTitle": "Invoices",
+  "invoicesUpdateTitle": "Update invoice",
+  "invoicesCreateTitle": "New invoice",
+  "invoiceCreateSuccess": "Create invoice success",
+  "invoiceUpdateSuccess": "Update invoice success",
+  "invoiceOrderNumber": "Invoice n°",
+
+  "quoteDuplicate": "Duplicate quote",
+  "quoteClosed": "Set quote as closed",
+  "quoteInvoice": "Convert to invoice",
+  "quoteModelKeep": "Keep as model",
+  "quotePending": "Set quote as pending",
+  "quotePurchaseOrder": "Convert to purchase order",
+  "quoteValidated": "Set quote as validated",
+
+  "modelHomeTitle": "Models",
+  "modelUpdateTitle": "Update model",
+  "modelUpdateSuccess": "Update model success",
+  "modelCreateTitle": "Create Model",
+
+  "documentModelCreateSuccess": "Create document model",
+  "stockBookingCreateSuccess": "Create stock booking success",
+  "purchaseOrderStockBooking": "Stock booking"
+}

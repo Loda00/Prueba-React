@@ -1,0 +1,9 @@
+{
+  "formWCtitle" : "Fond de roulement",
+  "workingCapitalCreateTitle": "Create working capital",
+  "workingCapitalUpdateTitle": "Update working capital",
+  "formResultPositive" : "Vous devriez avoir besoin d'un financement de trésorerie",
+
+  "workingCapitalCreateSuccess": "Create working capital success",
+  "workingCapitalUpdateSuccess": "Update working capital success"
+}

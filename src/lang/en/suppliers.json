@@ -1,0 +1,9 @@
+{
+  "suppliersCreateTitle": "Create Supplier",
+  "suppliersHomeTitle": "Home Suppliers",
+  "suppliersUpdateTitle": "Edit supplier",
+  "supplierShow": "Supplier",
+
+  "supplierCreateSuccess": "Create supplier success",
+  "supplierUpdateSuccess": "Update supplier success"
+}

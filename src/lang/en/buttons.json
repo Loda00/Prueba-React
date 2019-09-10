@@ -1,0 +1,19 @@
+{
+  "buttonYes": "Yes",
+  "buttonSave": "Save",
+  "buttonAdd": "Add",
+  "buttonFilter": "Filter",
+  "buttonExport": "Export",
+  "buttonOptionSelect": "Option select",
+  "buttonReset": "Reset",
+  "buttonDetails": "View details",
+  "buttonDelete": "Remove",
+  "buttonBack": "Return",
+  "buttonCancel": "Cancel",
+  "buttonNext": "Next",
+  "buttonSubmit": "Submit",
+  "buttonEdit": "Edit",
+  "buttonCreate": "Create",
+  "buttonSaveAndEdit": "Save and continue editing",
+  "buttonSaveValidate": "Save and validate"
+}

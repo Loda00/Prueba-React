@@ -1,0 +1,15 @@
+{
+  "dashboard": "Dashboard",
+  "companies" : "Companies",
+  "staff" : "Staff",
+  "suppliers" : "Suppliers",
+  "products" : "Products",
+  "forecast" : "Forecast",
+  "ensembles" : "Ensembles",
+  "regulations" : "Regulations",
+  "statistics" : "Statistics",
+  "experts" : "Experts",
+  "offices" : "Offices",
+  "analyzes" : "Analyzes",
+  "contacts": "Contacts"
+}

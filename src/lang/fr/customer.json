@@ -1,0 +1,13 @@
+{
+    "customerCompany": "Entreprise",
+    "customerCompanyName": "Nom de la compagnie",
+    "customerContactName": "Nom du contact",
+    "customerStreetName": "Nom de rue",
+    "customerAdditional": "Additionnel",
+    "customerZipCode": "Code postal",
+    "customerCity": "Ville",
+    "customerCountry": "Pays",
+    "coustomerHome": "Accueil Destinataires",
+    "customerUpdateTitle": "Mettre à jour le destinataire",
+    "customerCreateTitle": "Créer un destinataire"
+}

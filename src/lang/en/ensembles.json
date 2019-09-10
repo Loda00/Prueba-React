@@ -1,0 +1,15 @@
+{
+  "ensemblesCreateTitle": "Create ensemble",
+  "ensemblesUpdateTitle": "Update ensemble",
+  "ensemblesShowTitle": "Ensemble",
+  "ensemblesHomeTitle": "Home ensembles",
+  "ensemblesSelectedItems": "Selected Items",
+  "ensemblesTableName": "Name",
+  "ensemblesTableQuantity": "Quantity",
+  "ensemblesTableType": "Type",
+  "ensemblesWarningTitle": "Item already added",
+  "ensemblesWarningMessage": "Add quantity to the previous ?",
+  "ensembleCreateSuccess": "Create ensemble success",
+  "ensembleDeleteSuccess": "Delete ensemble success",
+  "ensembleUpdateSuccess": "Update ensemble success"
+}

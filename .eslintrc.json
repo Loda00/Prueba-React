@@ -1,0 +1,34 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "jest": true
+  },
+  "rules": {
+    "no-shadow": 0,
+    "import/no-unresolved": 0,
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+    "import/no-absolute-path": 0,
+    "no-underscore-dangle": [2, { "allow": ["_error", "__REDUX_DEVTOOLS_EXTENSION_COMPOSE__"] }],
+    "react/prop-types": 0,
+    "react/forbid-prop-types": 0,
+    "jsx-a11y/label-has-associated-control": 0,
+    "jsx-a11y/label-has-for": 0,
+    "no-param-reassign": 0,
+    "jsx-a11y/click-events-have-key-events": 0,
+    "jsx-a11y/no-static-element-interactions": 0,
+    "no-restricted-syntax": 0,
+    "consistent-return": 0,
+    "no-nested-ternary": 0,
+    "react/no-array-index-key": "off",
+    "no-unused-expressions": ["error", { "allowTernary": true }],
+    "react/no-unused-prop-types": 0,
+    "object-curly-newline": ["error", {
+      "ObjectExpression": {"minProperties": 1 },
+      "ObjectPattern": { "multiline": true },
+      "ImportDeclaration": "never",
+      "ExportDeclaration": { "multiline": true, "minProperties": 5 }
+    }]
+  }
+}

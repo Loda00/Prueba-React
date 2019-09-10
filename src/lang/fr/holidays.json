@@ -1,0 +1,11 @@
+{
+  "holidaysCreateTitle": "Ajouter un jour ferié",
+  "holidaysUpdateTitle": "Modifier le jour ferié",
+  "holidayDeleteTitle": "Supprimer le jour ferié",
+  "holidaysHomeTitle": "Jours feriés",
+  "holidaysShowTitle": "Jours ferié",
+
+  "holidayCreateSuccess": "Créer le succès de vacances",
+  "holidayDeleteSuccess": "Supprimer le succès de vacances",
+  "holidayUpdateSuccess": "Mettre à jour le succès de vacances"
+}

@@ -1,0 +1,122 @@
+.header-container {
+  width: 100%;
+  height: $header-height;
+  position: fixed;
+  z-index: 999;
+  box-shadow: 0 2px 5px rgba(0,0,0,.2);
+  background-color: $white;
+
+  .logo {
+    float: left;
+    padding: 10px;
+    height: $header-height;
+    text-align: center;
+    width: $sidebar-width;
+
+    img {
+      width: 130px;
+    }
+  }
+
+  .navbar {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    background-color: $white;
+    margin-bottom: 0;
+    margin-left: $sidebar-width;
+    border: none;
+    min-height: $header-height;
+
+    .nav-toggle {
+      margin-bottom: 10px;
+    }
+
+    .search-options {
+      .fields {
+        margin: 0 !important;
+      }
+
+      .selection {
+        color: $secondary;
+        border: none !important;
+
+        .transition {
+          border: none !important;
+        }
+
+        &:focus {
+          outline: none;
+        }
+      }
+    }
+
+    .util-options {
+      display: flex;
+      align-items: center;
+
+      >div:first-child {
+        width: 45px;
+      }
+
+      >div {
+        margin-right: 15px;
+        width: 35px;
+      }
+    }
+
+    .ui.dropdown {
+      margin-bottom: -12px;
+      padding-bottom: 12px;
+
+      .menu.transition {
+        right: 0 !important;
+        left: auto;
+
+        > div,
+        > a {
+          color: $primary !important;
+        }
+      }
+    }
+
+    .nav-user {
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+
+      .user-data {
+        text-align: right;
+        color: $primary;
+
+        :first-child {
+          font-weight: 900;
+        }
+
+        >div {
+          line-height: 14px;
+        }
+      }
+
+      .avatar {
+        width: 18px;
+        margin-left: 10px;
+      }
+    }
+
+    .nav-btn {
+      padding: 0 20px;
+      cursor: pointer;
+    }
+  }
+}
+
+.language-dropdown {
+  left: -12px !important;
+
+  img {
+    margin-right: 0 !important;
+    vertical-align: middle !important;
+  }
+}

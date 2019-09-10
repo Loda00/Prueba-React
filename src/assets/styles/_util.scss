@@ -1,0 +1,117 @@
+#root {
+  height: 100%;
+  background-color: $bg-color;
+  >div {
+    height: 100%;
+  }
+}
+
+.login-container {
+  height: 100%;
+  padding: 20px 0;
+  background: $white url('../images/background.png') no-repeat center center;
+}
+
+.main-view {
+  display: flex;
+  min-height: calc(100vh - #{$header-height});
+  margin-left: $sidebar-small-width;
+  background-color: $bg-color;
+  z-index: 800;
+  transition-duration: 0.5s;
+
+  &.active {
+    margin-left: $sidebar-width;
+  }
+}
+
+.section-container {
+  margin-left: 200px;
+  width: 100%;
+  background: $white;
+
+  &.no-margin {
+    margin-left: 0;
+  }
+
+  .fields {
+    width: 100%;
+  }
+}
+
+.section-loading {
+  padding: 0 !important;
+  margin: 10px !important;
+  min-height: 80%;
+
+  .visible.dimmer {
+    z-index: 998 !important;
+  }
+}
+
+.section-general {
+  max-width: 1000px;
+  padding: 0 30px 40px;
+
+  &:first-child {
+    padding: $standard-padding;
+  }
+}
+
+.section-list {
+  background-color: $primary-background;
+}
+
+.full-content .scrolling.content {
+  min-height: calc(70vh);
+}
+
+.mid-content .scrolling.content {
+  min-height: calc(50vh);
+}
+
+.full-page-loader {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  background: none !important;
+  overflow: hidden;
+}
+
+.margin-top {
+  margin-top: 20px !important;
+}
+
+.margin-bot {
+  margin-bottom: 20px !important;
+}
+
+.color-primary {
+  background-color: $primary !important;
+}
+
+.text-primary {
+  color: $primary !important;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.selectable {
+  cursor: pointer;
+}
+
+.btn-form {
+  margin-top: 30px;
+  margin-left: 30%;
+}

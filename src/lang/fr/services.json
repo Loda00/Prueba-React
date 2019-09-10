@@ -1,0 +1,10 @@
+{
+  "servicesCreateTitle": "Créer un service",
+  "servicesHomeTitle": "Services",
+  "servicesUpdateTitle": "Modifier le service",
+  "servicesShowTitle": "Service",
+
+  "serviceCreateSuccess": "Créer le succès du service",
+  "serviceUpdateSuccess": "Réussir le service de mise à jour",
+  "serviceDeleteSuccess": "Supprimer le service réussi"
+}

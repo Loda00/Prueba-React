@@ -1,0 +1,8 @@
+{
+  "stockCreateTitle": "Créer un stock",
+  "stockHomeTitle": "Stock",
+  "stockUpdateTitle": "Mettre à jour le stock",
+
+  "stockCreateSuccess": "Créer du succès en stock",
+  "stockUpdateSuccess": "Mettre à jour le succès du stock"
+}

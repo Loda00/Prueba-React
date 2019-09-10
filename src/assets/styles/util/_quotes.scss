@@ -1,0 +1,36 @@
+.document-container {
+  margin: 20px 0;
+  padding: 20px 15px;
+  border: solid 1px black;
+}
+
+.default-cell {
+  width: 100px;
+}
+
+.double-cell {
+  width: 150px;
+}
+
+.flex-cell {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.info-line {
+  padding: 8px 0;
+  font-weight: 400 !important;
+}
+
+.full-line-cell {
+  justify-content: space-evenly;
+  display: flex;
+
+  > div {
+    margin-right: 10px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}

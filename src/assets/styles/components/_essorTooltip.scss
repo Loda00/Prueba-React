@@ -1,0 +1,17 @@
+.essor-tooltip {
+  color: $white !important;
+  background-color: $primary !important;
+  opacity: 1 !important;
+
+  &.place-bottom {
+    &:after {
+      border-bottom: 6px solid $primary !important;
+    }
+  }
+
+  &.place-right {
+    &:after {
+      border-right-color: $primary !important;
+    }
+  }
+}

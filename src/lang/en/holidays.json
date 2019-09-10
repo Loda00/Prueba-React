@@ -1,0 +1,11 @@
+{
+  "holidaysCreateTitle": "Create holiday",
+  "holidaysUpdateTitle": "Edit holiday",
+  "holidayDeleteTitle": "Delete holiday",
+  "holidaysHomeTitle": "Holidays",
+  "holidaysShowTitle": "Holiday",
+
+  "holidayCreateSuccess": "Create holiday success",
+  "holidayDeleteSuccess": "Delete holiday success",
+  "holidayUpdateSuccess": "Update holiday success"
+}

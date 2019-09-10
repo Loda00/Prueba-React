@@ -1,0 +1,9 @@
+{
+  "productsCreateTitle": "Créer un produit",
+  "productsUpdateTitle": "Editer le produit",
+  "productsHomeTitle": "Produits",
+  "productsShowTitle": "Produit",
+
+  "productCreateSuccess": "Créer le succès du produit",
+  "productUpdateSuccess": "Mettre à jour le succès du produit"
+}

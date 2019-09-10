@@ -1,0 +1,23 @@
+{
+  "fiscalYearsCreateTitle": "Créer un exercice",
+  "fiscalYearsUpdateTitle": "Mise à jour de l'exercice",
+  "fiscalYearsHomeTitle": "Exercices fiscaux",
+  "fiscalYearsShowTitle": "Exercice fiscal",
+
+  "calculationTitle" : "Mode de calcul",
+  "calculationDefined" : "A définir",
+  "calculationCoefficient " : "Coefficient",
+  "calculationModalRaw" : "Matières premières",
+  "calculationModalGoods" : "Marchandises",
+  "calculationModalRealized" : "Réalisé",
+  "calculationModalProjected" : "Prévisionnel",
+  "calculationTauxMarge": "Taux de marge",
+  "calculationCoefficient": "Coefficient de vente",
+  "calculationMessageGoods": "matières premières",
+  "calculationMessageRaw": "Marchandise",
+
+  "fiscalYearCreateSuccess": "Créer le succès de l'année fiscale",
+  "fiscalYearUpdateSuccess": "Mettre à jour le succès de l'exercice",
+  "calculationModeCreateSuccess": "Créer le succès du mode de calcul",
+  "calculationModeUpdateSuccess": "Mise à jour du succès du mode de calcul"
+}

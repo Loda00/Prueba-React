@@ -1,0 +1,13 @@
+{
+    "customerCompany": "Company",
+    "customerCompanyName": "Company Name",
+    "customerContactName": "Contact Name",
+    "customerStreetName": "Street Name",
+    "customerAdditional": "Additional",
+    "customerZipCode": "Zip Code",
+    "customerCity": "City",
+    "customerCountry": "Country",
+    "coustomerHome": "Home Recipients",
+    "customerUpdateTitle": "Update Recipient",
+    "customerCreateTitle": "Create Recipient"
+}

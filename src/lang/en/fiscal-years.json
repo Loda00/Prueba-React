@@ -1,0 +1,24 @@
+{
+  "fiscalYearsCreateTitle": "Create fiscal year",
+  "fiscalYearsUpdateTitle": "Update fiscal year",
+  "fiscalYearsHomeTitle": "Fiscal years",
+  "fiscalYearsShowTitle": "Fiscal year",
+
+  "calculationTitle" : "Calculation Mode",
+  "calculationDefined" : "to defined",
+  "calculationCoefficient " : "Coefficient",
+  "calculationModalRaw" : "Raw Materials",
+  "calculationModalGoods" : "Goods",
+  "calculationModalRealized" : "Realized",
+  "calculationModalProjected" : "Projected",
+  "calculationTauxMarge": "Margin Rate",
+  "calculationCoefficient": "Selling Coefficient",
+  "calculationMessageGoods": "Raw material calculation method",
+  "calculationMessageRaw": "Goods calculation method",
+
+  "fiscalYearCreateSuccess": "Create fiscal year success",
+  "fiscalYearUpdateSuccess": "Update fiscal year success",
+
+  "calculationModeCreateSuccess": "Create calculation mode success",
+  "calculationModeUpdateSuccess": "Update calculation mode success"
+}

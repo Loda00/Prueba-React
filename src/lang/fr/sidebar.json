@@ -1,0 +1,17 @@
+{
+  "dashboard": "Tableau de bord",
+  "companies" : "Entreprises",
+  "companiesList" : "Mes entreprises",
+  "currentCompany": "Entreprise en cours",
+  "staff" : "Personnel",
+  "suppliers" : "Fournisseurs",
+  "products" : "Produits",
+  "forecast" : "Prévisionnel",
+  "ensembles" : "Ensembles",
+  "regulations" : "Règlements",
+  "statistics" : "Statistiques",
+  "experts" : "Experts",
+  "offices" : "Offices",
+  "analyzes" : "Analyses",
+  "contacts": "Contacts"
+}

@@ -1,0 +1,9 @@
+import { combineReducers } from 'redux';
+import list from './list';
+import create from './create';
+import update from './update';
+import show from './show';
+
+export default combineReducers({
+  create, list, update, show,
+});

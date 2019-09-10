@@ -1,0 +1,14 @@
+{
+  "officesCreateTitle": "Create office",
+  "officesHomeTitle": "Home office",
+  "officesShowTitle": "Office",
+  "officesUpdateTitle": "Edit office",
+  "officesContactInformation": "Contact information",
+  "officesCompanyDetails": "Company details",
+  "officesBankAccounts": "Bank accounts",
+  "officesSubscriptionData": "Subscription data",
+  "officesSubscribedOption": "Subscribed option",
+
+  "officeCreateSuccess": "Create office success",
+  "officeUpdateSuccess": "Update office success"
+}

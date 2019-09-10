@@ -1,0 +1,31 @@
+.forecast-table {
+  max-width: 1000px;
+}
+
+.definition-table {
+  thead th {
+    width: 140px;
+
+    &:first-child {
+      pointer-events: none;
+      background: 0 0;
+      box-shadow: 0 -1px 0 1px #fff;
+      width: auto;
+    }
+  }
+
+  .table-title {
+    background: rgba(0,0,0,.03);
+    font-weight: 700;
+    color: rgba(0,0,0,.95);
+    font-size: 14px;
+  }
+}
+
+.values-table {
+  tr {
+    td:last-child {
+      width: 120px;
+    }
+  }
+}

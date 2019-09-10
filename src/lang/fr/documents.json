@@ -1,0 +1,83 @@
+{
+  "quotesHomeTitle": "Devis",
+  "quotesCreateTitle": "Ajouter un Devis",
+  "quotesUpdateTitle": "Mettre à jour le devis",
+  "quoteAttentionOf": "À l'attention de",
+  "quoteSignBefore": "À signer avant le",
+
+  "quoteSoldAs": "Vendu comme",
+  "quoteUnitCost": "Coût unitaire",
+  "quoteOptional": "Optionnel",
+  "quoteActivity": "Activité",
+
+  "quoteNetTotalBeforeTaxes": "Total NHT",
+  "quoteTotalBeforeTaxes": "Total HT",
+  "quoteTotalWithTaxes": "Total TTC",
+  "quoteTotalVAT": "Total TVA",
+  "quotePreTax": "Cout unitaire HT",
+  "quotePreTaxTotal": "Montant HT",
+  "quoteQty": "Qt",
+
+  "quotePostalMail": "Courrier postal",
+  "quoteEmail": "Email",
+  "quotePhoneCall": "Appel téléphonique",
+  "quoteMeeting": "Réunion",
+  "quoteAgreement": "Accord",
+  "quoteShortList": "Liste courte",
+  "quoteUndecided": "Undécis",
+  "quoteUnlikely": "Peu probable",
+  "formQuoteReason": "Raison devis",
+  "quotePaymentDay": "Jour de paiement",
+  "quoteDecisionFactors": "Facteurs de décision",
+  "quoteModel": "Modèle",
+
+  "recipientCreateTitle": "Créer un destinataire",
+  "recipientCreateSuccess": "Créer le succès du destinataire",
+  "recipientCreate": "Créer un destinataire",
+
+  "quoteCreateSuccess": "Devis créé avec succès",
+  "quoteUpdateSuccess": "Devis modifié avec succès",
+
+  "followUpHomeTitle": "Relancements",
+  "followUpCreateTitle": "Créer un relancement",
+  "followUpCreateSuccess": "Relancement créé avec succès",
+  "followUpUpdateSuccess": "Relancement modifié avec succès",
+
+  "purchaseOrderHomeTitle": "Bon de commandes",
+  "purchaseOrderDuplicate": "Dupliquer Bon de commandes",
+  "purchaseOrdersCreateTitle": "Ajouter un Bon de commande",
+  "purchaseOrdersUpdateTitle": "Mettre à jour le bon de commande",
+  "purchaseOrderNumber": "Bon de commande",
+  "purchaseOrderStaff": "Personnel",
+
+  "purchaseOrderUpdateSuccess" : "Mise à jour du bon de commande",
+  "purchaseOrderCreateSuccess" : "Créer un bon de commande d'achat",
+
+  "formEstimatedDate": "Date de début estimée",
+  "formStaffAttribution": "Attribution du personnel",
+  "formPurchaseOrderReason": "Raison de la commande",
+
+  "invoiceHomeTitle": "Facture d'achat",
+  "invoicesUpdateTitle": "Mettre à jour le facture",
+  "invoicesCreateTitle": "Ajouter une facture",
+  "invoiceCreateSuccess": "Créer une facture réussie",
+  "invoiceUpdateSuccess": "Mise à jour de la facture avec succès",
+  "invoiceOrderNumber": "Facture n°",
+
+  "quoteDuplicate": "Dupliquer devis",
+  "quoteClosed": "Marquer devis: Cloturé",
+  "quoteInvoice": "Convertir en facture",
+  "quoteModelKeep": "Guarder comme modèle",
+  "quotePending": "Marquer devis: En attente",
+  "quotePurchaseOrder": "Convertir en BDC",
+  "quoteValidated": "Marquer devis: Validé",
+
+  "modelHomeTitle": "Modèle",
+  "modelUpdateTitle": "Mettre à jour le modèle",
+  "modelUpdateSuccess": "Mettre à jour le succès du modèle",
+  "modelCreateTitle": "Ajouter un modèle",
+
+  "documentModelCreateSuccess": "Create document model",
+  "stockBookingCreateSuccess": "Créer un succès de réservation de stock",
+  "purchaseOrderStockBooking": "Réservation de stock"
+}

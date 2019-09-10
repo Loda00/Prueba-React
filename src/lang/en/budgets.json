@@ -1,0 +1,19 @@
+{
+  "budgetsCreateTitle": "Create budget",
+  "budgetsHomeTitle": "Budgets",
+  "budgetsUpdateTitle": "Edit budget",
+  "budgetsViewBudget": "View budgets",
+  "budgetsShowTitle": "Budget",
+  "budgetsTableCF": "Charges fixes",
+  "budgetsTableCV": "Charges variables",
+  "budgetsTableTotalCharges": "Total charges",
+  "budgetsTableTotalProducts": "Total products",
+  "budgetsTableResult": "Result (total products + total charges)",
+  "budgetsTableResultTotal": "Result (Forecast Basis)",
+  "budgetsTableDifference": "Difference (between the 2 results)",
+  "budgetTableRealized": "Realized",
+  "budgetTablePredictable": "Predictable",
+  "budgetCreateSuccess": "Create budget success",
+  "budgetDeleteSuccess": "Delete budget success",
+  "budgetUpdateSuccess": "Update budget success"
+}

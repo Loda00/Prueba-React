@@ -1,0 +1,14 @@
+{
+  "officesCreateTitle": "Créer un EXPERT",
+  "officesHomeTitle": "EXPERTS",
+  "officesShowTitle": "EXPERT",
+  "officesUpdateTitle": "Editer l'EXPERT",
+  "officesContactInformation": "Informations de contact",
+  "officesCompanyDetails": "Détails de l'entreprise",
+  "officesBankAccounts": "Comptes bancaires",
+  "officesSubscriptionData": "Données d'abonnement",
+  "officesSubscribedOption": "Modules de formation",
+
+  "officeCreateSuccess": "Créer le succès de bureau",
+  "officeUpdateSuccess": "Mettre à jour le succès du bureau"
+}

@@ -1,0 +1,53 @@
+.table-container {
+  padding: 0 !important;
+
+  &.is-loading {
+    min-height: 200px;
+  }
+
+  .visible.dimmer {
+    z-index: 998 !important;
+  }
+}
+
+.option-buttons-container {
+  margin-bottom: 20px;
+
+  .header {
+    display: inline-block;
+  }
+
+  .tiny-select {
+    margin-left: 15px;
+    float: left;
+    font-size: .85714286rem;
+
+    .menu>.item {
+      padding: 0 !important;
+
+      .checkbox {
+        width: 100%;
+      }
+    }
+  }
+
+  button {
+    margin-left: 15px !important;
+
+    &:first-child {
+      margin-left: 0 !important;
+    }
+  }
+}
+
+.table-button {
+  background-color: $white !important;
+  color: $primary !important;
+  padding: 5px !important;
+}
+
+.table-button-primary {
+  background-color: $primary !important;
+  color: $white !important;
+  padding: 5px !important;
+}

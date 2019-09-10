@@ -1,0 +1,10 @@
+{
+  "servicesCreateTitle": "Create service",
+  "servicesHomeTitle": "Home services",
+  "servicesUpdateTitle": "Update service",
+  "servicesShowTitle": "Service",
+
+  "serviceCreateSuccess": "Create service success",
+  "serviceUpdateSuccess": "Update service success",
+  "serviceDeleteSuccess": "Delete service success"
+}

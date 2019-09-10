@@ -1,0 +1,10 @@
+{
+  "selfFinancingsCreateTitle": "Calculer la capacité d'auto-financement",
+  "selfFinancingsUpdateTitle": "Mise à jour",
+  "selfFinancingsHomeTitle": "Calcul de la capacité d'auto-financement",
+  "selfFinancingsShowTitle": "Calcul de la capacité d'auto-financement",
+
+  "selfFinancingCreateSuccess": "Créer le succès de l'autofinancement",
+  "selfFinancingDeleteSuccess": "Supprimer le succès de l'autofinancement",
+  "selfFinancingUpdateSuccess": "Mettre à jour le succès de l'autofinancement"
+}

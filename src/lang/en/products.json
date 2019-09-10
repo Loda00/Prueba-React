@@ -1,0 +1,9 @@
+{
+  "productsCreateTitle": "Create product",
+  "productsUpdateTitle": "Edit product",
+  "productsHomeTitle": "Home products",
+  "productsShowTitle": "Products",
+
+  "productCreateSuccess": "Create product success",
+  "productUpdateSuccess": "Update product success"
+}

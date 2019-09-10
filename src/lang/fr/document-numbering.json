@@ -1,0 +1,7 @@
+{
+  "documentNumberingTitle" : "Numérotation Des Documents",
+  "documentNumberingUpdateTitle": "Modifier la numérotation",
+  "documentNumberingCreateTitle": "Créer une numérotation de document",
+  "documentNumberingType": "Type de document",
+  "documentNumberingUpdateSuccess": "Mettre à jour le succès de l'exercice"
+}

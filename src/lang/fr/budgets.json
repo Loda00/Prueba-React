@@ -1,0 +1,19 @@
+{
+  "budgetsCreateTitle": "Éditer un budget",
+  "budgetsHomeTitle": "Budgets",
+  "budgetsUpdateTitle": "Éditer un budget",
+  "budgetsViewBudget": "Voir les budgets",
+  "budgetsShowTitle": "Budget",
+  "budgetsTableCF": "Charges fixes",
+  "budgetsTableCV": "Charges variables",
+  "budgetsTableTotalCharges": "Total charges",
+  "budgetsTableTotalProducts": "Total produits",
+  "budgetsTableResult": "Résultat",
+  "budgetsTableResultTotal": "Résultat d'exploitation",
+  "budgetsTableDifference": "Écart",
+  "budgetTableRealized": "Réalisé",
+  "budgetTablePredictable": "À prévoir",
+  "budgetCreateSuccess": "Créer un succès budgétaire",
+  "budgetDeleteSuccess": "Supprimer le succès du budget",
+  "budgetUpdateSuccess": "Mettre à jour le succès du budget"
+}

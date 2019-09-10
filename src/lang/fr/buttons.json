@@ -1,0 +1,19 @@
+{
+  "buttonYes": "Oui",
+  "buttonSave": "Enregistrer",
+  "buttonAdd": "Ajouter",
+  "buttonFilter": "Filtrer",
+  "buttonExport": "Export",
+  "buttonOptionSelect": "Sélection d'option",
+  "buttonReset": "Réinitialiser",
+  "buttonDetails": "Voir la fiche",
+  "buttonDelete": "Supprimer",
+  "buttonBack": "Retour",
+  "buttonCancel": "Annuler",
+  "buttonNext": "Suivant",
+  "buttonSubmit": "Soumettre",
+  "buttonEdit": "Modifier",
+  "buttonCreate": "Créer",
+  "buttonSaveAndEdit": "Enregistrer et continuer l'édition",
+  "buttonSaveValidate": "Enregistrer et valider"
+}

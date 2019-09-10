@@ -1,0 +1,9 @@
+{
+  "formWCtitle" : "Working Capitals",
+  "workingCapitalCreateTitle": "Create working capital",
+  "workingCapitalUpdateTitle": "Update working capital",
+  "formResultPositive": "You will most likely have a need for working capital",
+
+  "workingCapitalCreateSuccess": "Create working capital success",
+  "workingCapitalUpdateSuccess": "Update working capital success"
+}

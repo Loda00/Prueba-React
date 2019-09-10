@@ -1,0 +1,25 @@
+stages:
+  - test
+  - deploy
+
+eslint:
+    image: mhart/alpine-node:10
+    stage: test
+    script: npm i && npm run lint
+    allow_failure: false
+
+staging_deploy:
+  only:
+    - dev
+  stage: deploy
+  script:
+    - apk update && apk add openssh
+    - mkdir -p ~/.ssh
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+    - echo "$STAGING_PRIVATE_KEY" > ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
+    - ssh -p22 gitlabci@app.lampadaire.net "cd /var/www/client && git reset --hard && git clean -f && git pull && echo \"export default '$STAGING_API_URL';\" > src/config/_entrypoint.js && npm i && npm run build"
+  environment:
+    name: staging
+    url: http://app.lampadaire.net:5000
+

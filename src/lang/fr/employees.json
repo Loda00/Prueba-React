@@ -1,0 +1,25 @@
+{
+  "employeesCreateTitle": "Créer un employé",
+  "employeesShowTitle": "Employé",
+  "employeesHomeTitle": "Employés",
+  "employeesUpdate": "Mettre à jour l'employé",
+  "employeeCreate": "Créer un employé",
+  "employeesFormMale": "Homme",
+  "employeesFormFemale": "Femme",
+  "employeeHours": "Horaires de travail",
+  "employeeCreateSuccess": "Créer le succès des employés",
+  "employeeUpdateSuccess": "Mettre à jour le succès des employés",
+  "employeeDataCreateSuccess": "Créer le succès des données des employés",
+  "employeeDataUpdateSuccess": "Modification des données du personnel avec succès",
+
+  "employees": "Personnel",
+  "employeeList": "Liste du personnel",
+  "employeeAdd": "Ajouter du personnel",
+  "employeeContractInformation": "Informations contrat",
+  "employeeWorkSchedule": "Horaires",
+  "employeeWorkScheduleUpdate": "Modification des horaires",
+  "employeeDataAndSynthesis": "Données et synthèse",
+  "employeeDataAndSynthesisUpdate": "Modification des données",
+  "employeeLeavesManagement": "Gestion des absences",
+  "employeeProfileAndRoles": "Profil et roles"
+}

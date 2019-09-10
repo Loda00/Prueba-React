@@ -1,0 +1,25 @@
+{
+  "employeesCreateTitle": "Create employee",
+  "employeesShowTitle": "Employee",
+  "employeesHomeTitle": "Home employees",
+  "employeesUpdate": "Update Employee",
+  "employeeCreate": "Create Employee",
+  "employeeHours": "Employee Hours",
+  "employeesFormMale": "Male",
+  "employeesFormFemale": "Female",
+  "employeeCreateSuccess": "Create employee success",
+  "employeeUpdateSuccess": "Update employee success",
+  "employeeDataCreateSuccess": "Create employee data success",
+  "employeeDataUpdateSuccess": "Update employee data success",
+
+  "employees": "Employees",
+  "employeeList": "Employees list",
+  "employeeAdd": "Add an Employee",
+  "employeeContractInformation": "Contract information",
+  "employeeWorkSchedule": "Work schedule",
+  "employeeWorkScheduleUpdate": "Update work schedule",
+  "employeeDataAndSynthesis": "Data and synthesis",
+  "employeeDataAndSynthesisUpdate": "Update employee data",
+  "employeeLeavesManagement": "Leaves management",
+  "employeeProfileAndRoles": "Profile and roles"
+}

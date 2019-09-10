@@ -1,0 +1,35 @@
+.header-web-container {
+  margin-top: 65px;
+  width: 100%;
+  position: relative;
+  z-index: 1030;
+
+  .logo,
+  .checkVine {
+    position: absolute;
+    bottom: -10px;
+  }
+
+  .icon-head {
+    position: absolute;
+    left: -30px;
+  }
+
+  .web-contact {
+    width: 60%;
+    position: relative;
+    background: $secondary;
+    float: right;
+    display: flex;
+    color: $white;
+    padding: 5px;
+    line-height: 20px;
+    justify-content: space-between;
+    align-items: center;
+
+    .contact-number {
+      display: flex;
+      align-items: center;
+    }
+  }
+}

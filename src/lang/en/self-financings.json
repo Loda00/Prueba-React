@@ -1,0 +1,10 @@
+{
+  "selfFinancingsCreateTitle": "Create self financing",
+  "selfFinancingsUpdateTitle": "Update self financing",
+  "selfFinancingsHomeTitle": "Self financing",
+  "selfFinancingsShowTitle": "Self financing",
+
+  "selfFinancingCreateSuccess": "Create self financing success",
+  "selfFinancingDeleteSuccess": "Delete self financing success",
+  "selfFinancingUpdateSuccess": "Update self financing success"
+}

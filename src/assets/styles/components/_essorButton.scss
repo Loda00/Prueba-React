@@ -1,0 +1,23 @@
+.essor-button {
+  background-color: $primary !important;
+  color: $white !important;
+
+  &:hover,
+  &:active {
+    background-color: $primary - 30 !important;
+  }
+
+  &.secondary {
+    background-color: $white !important;
+    color: $primary !important;
+
+    &:hover,
+    &:active {
+      background-color: $primary-background - 30 !important;
+    }
+  }
+
+  &.submit-btn {
+    margin-left: 30%;
+  }
+}

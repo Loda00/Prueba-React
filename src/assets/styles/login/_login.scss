@@ -1,0 +1,24 @@
+.login-form {
+  height: 80%;
+
+  .login-button {
+    position: relative;
+    margin-top: 80px;
+  }
+
+  .check {
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+  }
+
+  .password-forgot {
+    padding: 15px 0;
+
+    a {
+      color: $secondary;
+      font-weight: 900;
+      font-size: 18px;
+    }
+  }
+}

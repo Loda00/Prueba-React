@@ -1,0 +1,15 @@
+{
+  "ensemblesCreateTitle": "Créer un ensemble",
+  "ensemblesUpdateTitle": "Modifier l'ensemble",
+  "ensemblesShowTitle": "Ensemble",
+  "ensemblesHomeTitle": "Ensembles",
+  "ensemblesSelectedItems": "Articles sélectionnés",
+  "ensemblesTableName": "Nom",
+  "ensemblesTableQuantity": "Quantité",
+  "ensemblesTableType": "Type",
+  "ensemblesWarningTitle": "Article déjà ajouté",
+  "ensemblesWarningMessage": "Ajouter la quantité à la précédente?",
+  "ensembleCreateSuccess": "Créer le succès de l'ensemble",
+  "ensembleDeleteSuccess": "Supprimer le succès de l'ensemble",
+  "ensembleUpdateSuccess": "Mettre à jour le succès de l'ensemble"
+}

@@ -1,0 +1,39 @@
+{
+  "companiesCreateTitle": "Créer une entreprise",
+  "companiesHomeTitle": "Entreprises",
+  "companiesShowTitle": "Entreprise",
+  "companiesUpdateTitle": "Modifier l'entreprise",
+  "companiesCompanyDetails": "Kbis",
+  "companiesContactInformation": "Coordonnées",
+  "companiesOpeningHours": "Horaires",
+
+  "companiesVatRates": "Taux de TVA",
+  "companiesDayOffReasons": "Raisons des absences",
+  "companiesUnits": "Unités",
+  "companiesContractTypes": "Type de contrats",
+  "companiesOfferReasons": "Origine des offres",
+  "companiesQuoteWonReasons": "Raisons offre gagnée",
+  "companiesVarianceReasons": "Raisons des écarts",
+  "companiesQuoteLostReasons": "Raisons offre perdue",
+  "companiesCompanyShares": "Capital",
+  "companiesBankAccounts": "Banques",
+  "companiesDocumentFooters": "Mise en page des documents",
+  "companiesAddCompany": "Ajouter une entreprise",
+
+  "companiesHoursSynthesis": "Synthèse des heures",
+  "companiesSellingHours": "Heures à la vente",
+  "companiesWorkingHours": "Heures travaillées",
+  "companiesUnsoldHours": "Heures non vendues",
+  "companiesTotal": "Total",
+  "companiesHours": "Heures",
+  "companiesHourlyCost": "Coût horaire",
+  "companiesTotalCost": "Coût total",
+  "companiesList": "Mes entreprises",
+
+  "companiesCreateSuccess": "Créer le succès de l'entreprise",
+  "companiesUpdateSuccess": "Mettre à jour le succès de l'entreprise",
+  "hourSynthesisDeleteSuccess": "Supprimer le succès de la synthèse de l'heure",
+  "hourSynthesisUpdateSuccess": "Succès de synthèse de l'heure de mise à jour",
+
+  "companiesBusinessManagement": "Gestion co"
+}
